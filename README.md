@@ -1,11 +1,13 @@
 # Tucil1_13521023
-> Project for Algorithm Strategies (IF2211) course from School of Electrical Engineering and Informatics, Bandung Institute of Technology
+> First mini-project for Algorithm Strategies (IF2211) course from School of Electrical Engineering and Informatics, Bandung Institute of Technology
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
+* [Libraries Used](#libraries-used-c)
 * [Local Setup](#local-setup)
+* [Structure](#structure)
 * [Author](#author)
+
 ## General Information
 A Solver for 24 puzzle card game made in C++. This program applied <i>brute-force algorithm</i> to search the puzzle's solution.
 
