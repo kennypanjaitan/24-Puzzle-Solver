@@ -1,0 +1,5 @@
+24 PUZZLE SOLVER
+
+Your Cards: 5 9 J Q 
+0 solutions found.
+

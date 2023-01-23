@@ -1,6 +1,6 @@
 // MAIN MENU
 
-#include "os.hpp"
+#include "clearScreen.hpp"
 #ifndef MENU_HPP
 #define MEMU_HPP
 

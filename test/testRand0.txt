@@ -1,0 +1,7 @@
+24 PUZZLE SOLVER
+
+Your Cards: 4 7 K K 
+2 solutions found.
+
+4 * (7 - (13 / 13))
+(7 - (13 / 13)) * 4
